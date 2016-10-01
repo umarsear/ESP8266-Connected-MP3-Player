@@ -1,6 +1,7 @@
 # Acknowledgement
 # Code in the file is based on the code share in the following Github Gist
 # https://gist.github.com/zatarra/fcb9409ef1c1835fa5fb25a860991751
+# https://www.davidgouveia.net/category/iot/
 
 import machine
 import socket
