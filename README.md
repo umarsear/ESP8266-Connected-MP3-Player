@@ -5,7 +5,7 @@ Example implementation of network connected MP3 player based on the ESP8266 WiFi
 
 The MP3 module has a 4 pin connector. VC +, VC -, RX, TX. Power can be drawn from the ESP8266 ground and +5v pin. for serial communication cross the RX to TX between the two modules. 
 
-I plan to upload a YouTube video to demonstrate the project and will share the link here. 
+Check out this YouTube video for see how it works. https://www.youtube.com/watch?v=linWEj72V1Y
 
 Links to modules
 
