@@ -11,8 +11,8 @@ Links to modules
 
 ESP8266, I am using the WeMos implementation. (anyone running micropython should work)
 
-https://www.aliexpress.com/item/D1-mini-Mini-NodeMcu-4M-bytes-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266-by/32643142716.html?spm=2114.13010608.0.0.nQCgqh
+https://www.ebay.com/itm/392276865235
 
 CATALEX MP3 player. 
 
-https://www.aliexpress.com/item/YX5300-UART-Control-Serial-MP3-Music-Player-Module-AVR-ARM-PIC/32729290291.html
+https://www.ebay.com/itm/391707147944
