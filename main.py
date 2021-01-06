@@ -120,7 +120,7 @@ while True:
     else:
       path, parameters = parseURL(obj.group(1))
       
-	  if path.startswith("/play"):
+      if path.startswith("/play"):
         track=parameters.get("track",None)
         cl.send(buildResponse("Playing:\n%s" % play_track(track)))
 
